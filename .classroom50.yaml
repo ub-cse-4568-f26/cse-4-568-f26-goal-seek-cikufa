@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cse-4-568-f26"
+assignment: "goal-seek"
+owner:
+  username: "cikufa"
+  id: 48587790
+  accepted_at: "2026-09-18T01:37:15Z"
+source:
+  owner: "ub-cse-4568-f26"
+  owner_id: 321116232
+  repo: "goal-seek"
+  branch: "main"
