@@ -1,6 +1,6 @@
 # Control Robot - Goal Seeking
 
-### Deadline : September 23, 20256 11:59pm
+### Deadline : September 23, 2026 11:59pm
 
 ***This class activity is to be done as individuals, not with partners nor with teams.***
 
